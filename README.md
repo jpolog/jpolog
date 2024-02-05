@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jpolog
+- 👋 Hi, I’m Javier Polo Gambin
 - 👀 I’m interested in mathematics, artifficial intelligence and web programming
-- 🌱 I’m currently learning mathematics and computer science at Universidad de Murcia (Spain)
-- 📫 You can reach me through my email jpolo13@outlook.es
+- 🌱 I’m currently learning Mathematics and Computer Science at Universidad de Murcia (Spain)
+- 📫 You can reach me through my email javier.polog@outlook.com
 
 <!---
 jpolog/jpolog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
